@@ -15,6 +15,8 @@ Jordan Jackson  - will be turning in updated version within 4 days
 
 Mary Montgomery https://github.com/marymonty/ACI_project010
 
+Nate Bennett https://github.com/natefbennett/aciProject2.git
+
 Blake Irons https://github.com/blake-irons/CanonSmile.git
 
 Gloria Zhu https://github.com/zhugejin/Camera_RainNoneWet.git
