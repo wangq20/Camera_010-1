@@ -17,5 +17,12 @@ Mary Montgomery https://github.com/marymonty/ACI_project010
 
 Yining Lai https://github.com/laiy3leo/YiningLaiCamera.git
 
+Nate Bennett https://github.com/natefbennett/aciProject2.git
+
+Blake Irons https://github.com/blake-irons/CanonSmile.git
+
+Gloria Zhu https://github.com/zhugejin/Camera_RainNoneWet.git
+
 ----
 
+Boyuan Zheng https://github.com/Hanapon0412/Camera_010.git
