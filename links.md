@@ -23,6 +23,8 @@ Blake Irons https://github.com/blake-irons/CanonSmile.git
 
 Gloria Zhu https://github.com/zhugejin/Camera_RainNoneWet.git
 
+Jerry Huang https://github.com/acijerry/leavingtraces
+
 ----
 
 Boyuan Zheng https://github.com/Hanapon0412/Camera_010.git
