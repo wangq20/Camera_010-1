@@ -28,6 +28,8 @@ Gloria Zhu https://github.com/zhugejin/Camera_RainNoneWet.git
 
 Jerry Huang https://github.com/acijerry/leavingtraces
 
+Lewis Kim https://github.com/lewisKkim/Kim_Lewis_AnalogTV
+
 ----
 
 Boyuan Zheng https://github.com/Hanapon0412/Camera_010.git
