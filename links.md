@@ -35,3 +35,5 @@ Lewis Kim https://github.com/lewisKkim/Kim_Lewis_AnalogTV
 Boyuan Zheng https://github.com/Hanapon0412/Camera_010.git
 
 Bryce Kerr Abraham: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A8ea860e9-1972-46ae-a541-700d3f6959d3 -forgot to make a repo and it was to many files to commit
+
+Queena Wang https://github.com/wangq20/Camera_010
